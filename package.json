@@ -1,0 +1,26 @@
+{
+  "name": "friend-finder",
+  "version": "1.0.0",
+  "description": "Week 13 hw for GA Tech Coding BootCamp",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/msdibble/Friend-Finder.git"
+  },
+  "author": "Dibble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/msdibble/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/msdibble/Friend-Finder#readme"
+}
